@@ -119,6 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+thesis-venv/
 
 # Spyder project settings
 .spyderproject
@@ -150,3 +151,8 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+processed-data/
+population/data/Global_2020_PopulationDensity30sec_GPWv4.tiff
+population/data/Population_germany.*
+road/data/GRIP4*
